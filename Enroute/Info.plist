@@ -46,5 +46,7 @@
 		<string>UIInterfaceOrientationLandscapeLeft</string>
 		<string>UIInterfaceOrientationLandscapeRight</string>
 	</array>
+	<key>FlightAware Credentials</key>
+	<string>mgudipati:94eef2bf3f2ac412e04b4aeaba45f2f697898337</string>
 </dict>
 </plist>
